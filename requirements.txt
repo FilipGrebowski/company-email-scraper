@@ -1,4 +1,4 @@
 beautifulsoup4==4.8.1
 bs4==0.0.1
-requests==2.13.0
+requests==2.20.0
 sendgrid==6.1.0
