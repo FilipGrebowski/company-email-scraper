@@ -9,7 +9,7 @@ You will have to store that SENDGRID_API_KEY in a sendgrid.env file.
 
 [SendGrid API Getting Started](https://sendgrid.com/docs/for-developers/sending-email/api-getting-started/#prerequisites-for-sending-your-first-email-with-the-sendgrid-api)
 
-Before running the program, remember to export you SENDGRID_API_KEY in terminal.
+Before running the program, remember to export you SENDGRID_API_KEY in terminal.\
 `export SENDGRID_API_KEY='YOUR_SENDGRID_API_KEY'`
 
 💛 Happy Sending!
