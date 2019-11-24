@@ -47,6 +47,3 @@ class Scraper:
     with open('emails.csv', 'a') as file:
         for email in list_emails:
             file.write("%s\n" % email)
-
-
-
