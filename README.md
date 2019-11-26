@@ -12,6 +12,8 @@ You will have to store that SENDGRID_API_KEY in a sendgrid.env file.
 Before running the program, remember to export you SENDGRID_API_KEY in terminal.\
 `export SENDGRID_API_KEY='YOUR_SENDGRID_API_KEY'`
 
+Once everything is set up, go into the `scrapers` folder and run either `python clutchco_scraper.py` or `python seedtable_scraper.py`. 
+
 💛 Happy Sending!
 
 ![Alt Text](https://media.giphy.com/media/kDaE01OtFSyobqta2C/giphy.gif)
