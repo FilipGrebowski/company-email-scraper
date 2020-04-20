@@ -12,7 +12,7 @@ You will have to store that SENDGRID_API_KEY in a sendgrid.env file.
 Before running the program, remember to export your SENDGRID_API_KEY in terminal.\
 `export SENDGRID_API_KEY='YOUR_SENDGRID_API_KEY'`
 
-Once everything is set up, go into the `scrapers` folder and run either `python clutchco_scraper.py` or `python seedtable_scraper.py`. This will create your csv file with all thr emails.
+Once everything is set up, go into the `scrapers` folder and run either `python clutchco_scraper.py` or `python seedtable_scraper.py`. This will create your csv file with all the emails.
 
 Once that is done, go into the main directory, make sure you alter the message ur sending with your sender email, the subject line and the message content. After, just run `python send_emails.py` and you should be good!
 
