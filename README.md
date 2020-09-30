@@ -1,4 +1,4 @@
-# company-email-scraper
+# company-email-scraper #An amazing project
 
 A scraper fetching all company emails from Seedtable and Clutch websites.
 
