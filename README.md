@@ -1,4 +1,4 @@
-# company-email-scraper
+# Filip; Attractive Games Developer
 
 A scraper fetching all company emails from Seedtable and Clutch websites.
 
