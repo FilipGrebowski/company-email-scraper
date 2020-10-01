@@ -1,6 +1,7 @@
-# company-email-scraper
+# =>company-email-scraper
 
 A scraper fetching all company emails from Seedtable and Clutch websites.
+download now from below
 
 🚀 Install the dependancies: `pip3 install -r requirements.txt`
 
