@@ -17,5 +17,6 @@ Once everything is set up, go into the `scrapers` folder and run either `python 
 Once that is done, go into the main directory, make sure you alter the message ur sending with your sender email, the subject line and the message content. After, just run `python send_emails.py` and you should be good!
 
 💛 Happy Sending!
+with good wishes!
 
 ![Alt Text](https://media.giphy.com/media/kDaE01OtFSyobqta2C/giphy.gif)
