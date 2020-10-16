@@ -5,7 +5,6 @@ import countries
 
 list_emails = []
 
-
 class ClutchScraper:
 
     urls = []
