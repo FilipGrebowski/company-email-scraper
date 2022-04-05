@@ -48,7 +48,7 @@ class ClutchScraper:
             for domain in company.find_all('a', {'href': re.compile('^http')}):
 
                 try:
-                    countryName = company.find('span', {'class': re.compile('region')}).string
+                    countryName = company.find('span', {'class': re.compile('locality')}).string
 
                     for country in countries.countries:
 
